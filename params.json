@@ -1,0 +1,6 @@
+{
+  "name": "Ospack",
+  "tagline": "",
+  "body": "# ospack\r\nOspack è la versione modificata del kernel linux per osman\r\nIl uso di docker compose  e docker engine permette il uso della immagine del contaner per il avvio del kernel\r\nPinW si usa per creare la interfaccia web per il server remoto",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
